@@ -1,4 +1,4 @@
-# Hi there, I'm [SEU NOME]! 👋
+# Hi there, I'm Victor! 👋
 ### 👨‍💻 Systems Development Technician from Brazil
 
 I recently graduated from **ETEC** (Dec 2025), focusing on Mobile (React Native) and Web Development. I love building apps that solve real-world problems, combining logic with creativity.
